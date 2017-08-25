@@ -3,4 +3,4 @@ just another repository
 
 Hi Earthlings
 
-Im chirs im 32 and trying to learn how to build a spade app 
+Im chris im 32 and trying to learn how to build a spade app 
